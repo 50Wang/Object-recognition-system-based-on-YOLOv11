@@ -7,4 +7,4 @@
 
 ![image_000002](https://github.com/user-attachments/assets/bd3d4600-47a4-4fa4-94a8-3c7faf00d88f)
 
-
+如果想用自己的数据集来训练，数据集需要image+label(同名仅文件类型不同)，运行train_v11.py，训练结果在yolov11-master\runs\train\exp。
